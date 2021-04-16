@@ -1,0 +1,25 @@
+{
+  "name": "curso-protractor-indiano",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor conf.js",
+    "webdriver:clean": "webdriver-manager clean",
+    "webdriver:update": "webdriver-manager update"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamBSilva/curso-protractor-indiano.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamBSilva/curso-protractor-indiano/issues"
+  },
+  "homepage": "https://github.com/WilliamBSilva/curso-protractor-indiano#readme",
+  "devDependencies": {
+    "protractor": "^7.0.0"
+  }
+}
